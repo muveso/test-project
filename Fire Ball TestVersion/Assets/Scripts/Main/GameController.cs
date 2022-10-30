@@ -108,6 +108,8 @@ namespace Main
 
             _player.ChangeState(PlayerStates.Moving);
             State = GameStates.Playing;
+
+if (true){}
         }
     }
 }
